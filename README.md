@@ -1,3 +1,6 @@
 # responsiveMenu
-Simple responsive menu using JS / Menu responsivo simples usando JS
-Check it here: https://fmarcio.github.io/responsiveMenu/
+Very simple responsive menu using vanilla JS 
+
+Menu responsivo bem simples usando vanilla JS
+
+Link: https://fmarcio.github.io/responsiveMenu/
